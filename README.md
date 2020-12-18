@@ -7,7 +7,8 @@ This boilerplate is using `TypeScript`, `Express`, `Node.js`, `TypeORM`, `MySQL`
 
 The scripts involved in this are build, dev, and start.
 
-npm run `script` will run any of the scripts and I'm sure they are self explanitory.
+npm run `script name` - will run any of the scripts and I'm sure they are self explanitory.
+
 ---
 
 ## The Text below here are the ways you can use markdown and examples given for future Markdown files!
