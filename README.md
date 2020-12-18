@@ -7,7 +7,7 @@
 
 Normal Text
 
-[Link Name] (https://ryanwethey.tech "Link Title")
+[Link Name](https://ryanwethey.tech "Link Title")
 
 _Italic Text_
 
@@ -15,11 +15,11 @@ _Italic Text_
 
 ~~Strike Through text~~
 
-![ImageName]()
+![Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/02/05/10/Heart-eyes-emoji.png)
 
 |Table|Firstname|Lastname|Email|
 |-----|---------|--------|-----|
-|-----|Ryan-----|Wethey--|r_Wethey@yahpp.com|
+||Ryan|Wethey|r_Wethey@yahoo.com|
 
 >This is a quote
 
