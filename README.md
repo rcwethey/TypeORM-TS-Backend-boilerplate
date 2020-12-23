@@ -3,7 +3,11 @@
 This is the baseline project for a TypeORM TS Backend Project 
 ***
 
-This boilerplate is using `TypeScript`, `Express`, `Node.js`, `TypeORM`, `MySQL`, `ApolloServer`, `Nodemon`, `GraphQL`, and the types that are accosicated with express, node, and graphql.
+1. Run npm install to install all the modules
+2. Configure your ormconfig.env to connect to your database successfully. 
+3. Run "npm run dev" in order to start development of your project.
+
+This boilerplate is using `TypeScript`, `Express`, `Node.js`, `TypeORM`, `MySQL`, `ApolloServer`, `TS-Node-Dev`, `Type-GraphQL`, and the types that are accosicated with express, node, and type-graphql.
 
 The scripts involved in this are build, dev, and start.
 
