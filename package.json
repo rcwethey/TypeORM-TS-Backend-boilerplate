@@ -1,5 +1,5 @@
 {
-   "name": "TS-Backend-demo",
+   "name": "typescript-backend-demo",
    "version": "0.0.1",
    "description": "TypeORM Express Typscript MySql Demo",
    "main": "index.ts",
