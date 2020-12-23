@@ -1,4 +1,4 @@
-# TypeORM TS Backend Boilerplate
+# Typescript Backend Demo
 
 This is the baseline project for a TypeORM TS Backend Project 
 ***
